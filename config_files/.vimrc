@@ -1,4 +1,4 @@
-" 2024-06-05
+" 2024-06-09
 set number
 set tabstop=4
 set shiftwidth=4
@@ -10,3 +10,4 @@ colorscheme molokai " https://github.com/tomasr/molokai
 set cursorline
 set hlsearch
 set incsearch
+hi Normal guibg=NONE ctermbg=NONE
